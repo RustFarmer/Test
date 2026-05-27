@@ -1,7 +1,7 @@
 [
   {
     "name": "YouTube",
-    "url": "www.youtube.com"
+    "url": "youtube.com"
   },
   {
     "name": "Twitch",
