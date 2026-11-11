@@ -1,0 +1,92 @@
+[
+  {
+    "Qst": {
+      "question_name": "Ñòîëèöà Ôðàíöèè?",
+      "answer": [ "Ëèîí", "Ìàðñåëü" ],
+      "right_answer": [ "Ïàðèæ" ],
+      "image": null,
+      "id": 1
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñòîëèöà ßïîíèè?",
+      "answer": [ "Îñàêà", "Êèîòî" ],
+      "right_answer": [ "Òîêèî" ],
+      "image": null,
+      "id": 2
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñàìûé áîëüøîé îêåàí?",
+      "answer": [ "Àòëàíòè÷åñêèé", "Èíäèéñêèé" ],
+      "right_answer": [ "Òèõèé" ],
+      "image": null,
+      "id": 3
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñàìûé áîëüøîé ìàòåðèê?",
+      "answer": [ "Àôðèêà", "Ñåâåðíàÿ Àìåðèêà" ],
+      "right_answer": [ "Åâðàçèÿ" ],
+      "image": null,
+      "id": 4
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñòîëèöà Ðîññèè?",
+      "answer": [ "Ñàíêò-Ïåòåðáóðã", "Êàçàíü" ],
+      "right_answer": [ "Ìîñêâà" ],
+      "image": null,
+      "id": 5
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñàìàÿ äëèííàÿ ðåêà â ìèðå?",
+      "answer": [ "Àìàçîíêà", "ßíöçû" ],
+      "right_answer": [ "Íèë" ],
+      "image": null,
+      "id": 6
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñòîëèöà Ãåðìàíèè?",
+      "answer": [ "Ìþíõåí", "Ãàìáóðã" ],
+      "right_answer": [ "Áåðëèí" ],
+      "image": null,
+      "id": 7
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñàìûé ìàëåíüêèé ìàòåðèê?",
+      "answer": [ "Åâðîïà", "Àíòàðêòèäà" ],
+      "right_answer": [ "Àâñòðàëèÿ" ],
+      "image": null,
+      "id": 8
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Êàêîé ìàòåðèê ñàìûé õîëîäíûé?",
+      "answer": [ "Àôðèêà", "Àçèÿ" ],
+      "right_answer": [ "Àíòàðêòèäà" ],
+      "image": null,
+      "id": 9
+    }
+  },
+  {
+    "Qst": {
+      "question_name": "Ñòîëèöà Èòàëèè?",
+      "answer": [ "Ìèëàí", "Âåíåöèÿ" ],
+      "right_answer": [ "Ðèì" ],
+      "image": null,
+      "id": 10
+    }
+  }
+]
